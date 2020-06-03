@@ -5,3 +5,4 @@ h - head
 t - tail
 tgt - target
 rst - result
+ptr - pointer
